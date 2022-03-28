@@ -1,2 +1,3 @@
 this is to understand the concepts of git and how it works
 also find out how we are going to revoke and remove the latest changes
+adding few more lines
