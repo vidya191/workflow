@@ -8,3 +8,4 @@ this gives more explanation
 
 still working on pull command 
 >>>>>>> 54841d8d3d60ae1ba11155fd1c914753481ddbad
+adding more lines to work on git pull request
